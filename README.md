@@ -1,8 +1,4 @@
 <p align="center">
-      <img src="https://img.icons8.com/?size=100&id=42817&format=png&color=000000">
-</p>
-
-<p align="center">
        Multi-page modal windows
 </p>
 
