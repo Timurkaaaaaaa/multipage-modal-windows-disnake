@@ -20,9 +20,6 @@ This is a code example with a multi-page discord bot modal window written using 
 ## 😀 Developer
 - [Timurkaaa](https://github.com/Timurkaaaaaaa)
 
-## 🧾 License
-- MIT License
-
 ## 📎 Links
 - [Disnake](https://disnake.dev/)
 - [Disnake API](https://docs.disnake.dev/en/stable/api/index.html)
